@@ -1,0 +1,38 @@
+body {
+    background-color: rgb(170, 229, 164);
+    font-family: 'Courier New', monospace;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.header {
+    text-align: center;
+}
+
+.image {
+    border: 5px solid rgb(143, 192, 137);
+    border-radius: 20px;
+    height: 300px;
+    display: block;
+    margin: auto;
+}
+
+.imagebig {
+    border: 5px solid rgb(143, 192, 137);
+    border-radius: 20px;
+    height: 550px;
+    display: block;
+    margin: auto;
+}
+
+.facts {
+    background-color: rgb(143, 192, 137);
+}
+
+.feedback {
+    background-color: rgb(143, 192, 137);
+}
+
+.hyperlinks {
+    background-color: rgb(143, 192, 137);
+}
