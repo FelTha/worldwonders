@@ -36,3 +36,19 @@ body {
 .hyperlinks {
     background-color: rgb(143, 192, 137);
 }
+
+/*wode gome*/
+.ad-container {
+    background-color: whitesmoke;
+    position: flex;
+    width: 100%;
+    text-align: center;
+    padding: 10px 0;
+    color: rgb(0, 0, 0);
+    }
+
+
+.ad-container img {
+    height: 200px;
+    width: 1250px; 
+    }
